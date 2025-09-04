@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Ganti dengan token dari @BotFather
-TOKEN = "MASUKKAN_TOKEN_BOT_KAMU_DI_SINI"
+TOKEN = "8265882511:AAHaDn4aR6DZi8z-QVV9LGVcwQpIiODKhM8"
 
 # Fungsi yang akan dijalankan ketika user ketik /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
